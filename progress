@@ -1,0 +1,10 @@
+http://v.ruc.edu.cn/educenter/api/users/me?school_domain=v.ruc.edu.cn&access_token=bWVtJXj5eOwjSqawho1gM0bDjw
+参数access_token 获得data.users[0].id
+
+http://v.ruc.edu.cn/educenter/api/users/ID/classes?offset=0&limit=30&type=%E6%99%AE%E9%80%9A%E8%AF%BE%E7%A8%8B&year=2015-2016&term=%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F&school_domain=v.ruc.edu.cn&&access_token=bWVtJXj5eOwjSqawho1gM0bDjw
+参数access_token, userid 获得data.classes[i].id以及其他信息
+
+http://v.ruc.edu.cn/educenter/api/classes/ID/users?offset=0&limit=200&output_users=middle&school_domain=v.ruc.edu.cn&access_token=bWVtJXj5eOwjSqawho1gM0bDjw
+参数access_token, classid，获得data.users[i].id及其他信息
+
+access_token过期的信息是{"code":401,"message":"Internal server message: Empty TiUP UID"}，正常情况code=200

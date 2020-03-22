@@ -1,0 +1,9 @@
+c:\users\zhongdian\desktop\Project\RUCClassCatcher\RUCClassCatcher\bin\Debug\RUCClassCatcher.exe.config
+c:\users\zhongdian\desktop\Project\RUCClassCatcher\RUCClassCatcher\bin\Debug\RUCClassCatcher.exe
+c:\users\zhongdian\desktop\Project\RUCClassCatcher\RUCClassCatcher\bin\Debug\RUCClassCatcher.pdb
+c:\users\zhongdian\desktop\Project\RUCClassCatcher\RUCClassCatcher\bin\Debug\MySql.Data.dll
+c:\users\zhongdian\desktop\Project\RUCClassCatcher\RUCClassCatcher\bin\Debug\Newtonsoft.Json.dll
+c:\users\zhongdian\desktop\Project\RUCClassCatcher\RUCClassCatcher\bin\Debug\Newtonsoft.Json.xml
+c:\users\zhongdian\desktop\Project\RUCClassCatcher\RUCClassCatcher\obj\Debug\RUCClassCatcher.csprojResolveAssemblyReference.cache
+c:\users\zhongdian\desktop\Project\RUCClassCatcher\RUCClassCatcher\obj\Debug\RUCClassCatcher.exe
+c:\users\zhongdian\desktop\Project\RUCClassCatcher\RUCClassCatcher\obj\Debug\RUCClassCatcher.pdb
